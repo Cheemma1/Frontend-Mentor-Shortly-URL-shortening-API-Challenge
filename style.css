@@ -43,6 +43,8 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 2rem 3rem;
+  width:90%;
+  margin: auto;
 }
 .line1{
   display: none;
@@ -123,6 +125,8 @@ cursor: pointer;
   justify-content: center;
   padding: 3rem;
   gap: 1rem;
+  width: 85%;
+  margin: auto;
 }
 .hero h1{
   font-size: var(--step-0)
