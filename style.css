@@ -140,7 +140,7 @@ cursor: pointer;
   width: 50%;
 }
 .form-section{
-  background: url(/images/bg-shorten-desktop.svg);
+  background: url(images/bg-shorten-desktop.svg);
   background-color: var(--VeryDarkViolet);
   background-size: cover;
   background-position: center;
@@ -225,7 +225,7 @@ border-radius: 7px;
   width: 8%;
 }
 .boost{
-  background: url(/images/bg-boost-desktop.svg);
+  background: url(images/bg-boost-desktop.svg);
   background-position: center;
   background-size: cover;
   padding: 3rem 0;
