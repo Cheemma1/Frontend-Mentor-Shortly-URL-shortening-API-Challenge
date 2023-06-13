@@ -21,7 +21,7 @@
 
 }
 /* custom css reset */
-html, body {
+html, body , main{
   height: 100%;
 }
 img, picture, video, canvas, svg {
